@@ -16,7 +16,7 @@ Creating impactful digital solutions that improve communities and drive innovati
 
 - 🔗 Full-stack applications (Web & Mobile)
 - 🧠 Smart, scalable backend systems with modern architectures
-- 🔄 API Integrations with external systems and services
+- 🔄 API Integrations with systems and services
 
 📈 I believe in continuous learning, building real-world projects, and giving back to the community through code.
 
