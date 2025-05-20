@@ -91,10 +91,10 @@ Here are some of the systems I'm proud of or currently building:
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [yohannes.mitike@example.com](mailto:yohannes.mitike@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yohannesmitike](https://linkedin.com/in/yohannesmitike)
-- 🐦 Twitter: [@YohannesMitike](https://twitter.com/YohannesMitike)  
-- 🌐 Portfolio: _Coming Soon!_
+- 📧 Email: [jonnmersha@gmail.com](mailto:jonmersha@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yohannes-mitike/](https://www.linkedin.com/in/yohannes-mitike/)
+- 🐦 x: [@YohannesMitike](https://x.com/YohannesMitike)  
+- 🌐 Portfolio: https://yohannes.besheger.com
 
 ---
 
