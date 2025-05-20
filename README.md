@@ -102,7 +102,5 @@ Here are some of the systems I'm proud of or currently building:
 
 If you're building something exciting or working on impactful tech, I'd love to collaborate or contribute. Let’s build something that matters!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohannesmitike&show_icons=true&theme=radical" alt="Yohannes' GitHub stats"/>
-</p>
+
 
